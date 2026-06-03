@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<summary fileFormatVersion="101">
+    <methods>
+        <method id="android.database.MatrixCursor$RowBuilder add(java.lang.Object)">
+            <flows>
+                <flow isAlias="false">
+                    <from sourceSinkType="Parameter" ParameterIndex="0" />
+                    <to sourceSinkType="Field"
+                        AccessPath="[android.database.MatrixCursor$RowBuilder: java.lang.Object[] Names]"
+                        AccessPathTypes="[java.lang.Object[]]" />
+                </flow>
+                <flow isAlias="false">
+                    <from sourceSinkType="Field"
+                        AccessPath="[android.database.MatrixCursor$RowBuilder: java.lang.Object[] Names]"
+                          AccessPathTypes="[java.lang.Object[]]" />
+                    <to sourceSinkType="Return"
+                        AccessPath="[android.database.MatrixCursor$RowBuilder: java.lang.Object[] Names]"
+                        AccessPathTypes="[java.lang.Object[]]" />
+                </flow>
+            </flows>
+        </method>
+        <method id="android.database.MatrixCursor$RowBuilder add(java.lang.String,java.lang.Object)">
+            <flows>
+                <flow isAlias="false">
+                    <from sourceSinkType="Parameter" ParameterIndex="1" />
+                    <to sourceSinkType="Field"
+                        AccessPath="[android.database.MatrixCursor$RowBuilder: java.lang.Object[] Names]"
+                        AccessPathTypes="[java.lang.Object[]]" />
+                </flow>
+            </flows>
+        </method>
+    </methods>
+</summary>

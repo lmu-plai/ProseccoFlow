@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<summary fileFormatVersion="101">
+    <methods>
+        <method id="void put(java.lang.String,java.lang.Long)">
+            <flows>
+                <flow isAlias="false">
+                    <from sourceSinkType="Parameter" ParameterIndex="1" />
+                    <to sourceSinkType="Field"
+                        AccessPath="[android.content.ContentValues: java.lang.Object Info]"
+                        AccessPathTypes="[java.lang.Object]"
+                    />
+                </flow>
+            </flows>
+        </method>
+        <method id="void put(java.lang.String,java.lang.Short)">
+            <flows>
+                <flow isAlias="false">
+                    <from sourceSinkType="Parameter" ParameterIndex="1" />
+                    <to sourceSinkType="Field"
+                        AccessPath="[android.content.ContentValues: java.lang.Object Info]"
+                        AccessPathTypes="[java.lang.Object]"
+                    />
+                </flow>
+            </flows>
+        </method>
+        <method id="void put(java.lang.String,java.lang.Double)">
+            <flows>
+                <flow isAlias="false">
+                    <from sourceSinkType="Parameter" ParameterIndex="1" />
+                    <to sourceSinkType="Field"
+                        AccessPath="[android.content.ContentValues: java.lang.Object Info]"
+                        AccessPathTypes="[java.lang.Object]"
+                    />
+                </flow>
+            </flows>
+        </method>
+        <method id="void put(java.lang.String,java.lang.Integer)">
+            <flows>
+                <flow isAlias="false">
+                    <from sourceSinkType="Parameter" ParameterIndex="1" />
+                    <to sourceSinkType="Field"
+                        AccessPath="[android.content.ContentValues: java.lang.Object Info]"
+                        AccessPathTypes="[java.lang.Object]"
+                    />
+                </flow>
+            </flows>
+        </method>
+        <method id="void put(java.lang.String,java.lang.Boolean)">
+            <flows>
+                <flow isAlias="false">
+                    <from sourceSinkType="Parameter" ParameterIndex="1" />
+                    <to sourceSinkType="Field"
+                        AccessPath="[android.content.ContentValues: java.lang.Object Info]"
+                        AccessPathTypes="[java.lang.Object]"
+                    />
+                </flow>
+            </flows>
+        </method>
+        <method id="void put(java.lang.String,java.lang.String)">
+            <flows>
+                <flow isAlias="false">
+                    <from sourceSinkType="Parameter" ParameterIndex="1" />
+                    <to sourceSinkType="Field"
+                        AccessPath="[android.content.ContentValues: java.lang.Object Info]"
+                        AccessPathTypes="[java.lang.Object]"
+                    />
+                </flow>
+            </flows>
+        </method>
+        <method id="void put(java.lang.String,java.lang.Float)">
+            <flows>
+                <flow isAlias="false">
+                    <from sourceSinkType="Parameter" ParameterIndex="1" />
+                    <to sourceSinkType="Field"
+                        AccessPath="[android.content.ContentValues: java.lang.Object Info]"
+                        AccessPathTypes="[java.lang.Object]"
+                    />
+                </flow>
+            </flows>
+        </method>
+        <method id="void put(java.lang.String,byte[])">
+            <flows>
+                <flow isAlias="false">
+                    <from sourceSinkType="Parameter" ParameterIndex="1" />
+                    <to sourceSinkType="Field"
+                        AccessPath="[android.content.ContentValues: java.lang.Object Info]"
+                        AccessPathTypes="[java.lang.Object]"
+                    />
+                </flow>
+            </flows>
+        </method>
+        <method id="void put(java.lang.String,java.lang.Byte)">
+            <flows>
+                <flow isAlias="false">
+                    <from sourceSinkType="Parameter" ParameterIndex="1" />
+                    <to sourceSinkType="Field"
+                        AccessPath="[android.content.ContentValues: java.lang.Object Info]"
+                        AccessPathTypes="[java.lang.Object]"
+                    />
+                </flow>
+            </flows>
+        </method>
+    </methods>
+</summary>
