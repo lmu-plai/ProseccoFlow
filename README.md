@@ -4,7 +4,7 @@ Source code and data for the ARES'26 paper "Content for Everyone: Detecting Misc
 ## Paper link
 The paper is available [here](https://www.plai.ifi.lmu.de/publications/ares26-content.pdf).
 
-## BibTex citation
+## BibTeX citation
 ```
 @inproceedings{ares26-content,
   author    = {Christopher Lenk and Tim Lange and Johannes Kinder},
